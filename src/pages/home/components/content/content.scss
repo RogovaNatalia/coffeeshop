@@ -1,0 +1,32 @@
+.content {
+    background-color: white;
+    padding: 80px 0 101px;
+    text-align: center; 
+  }
+  
+  .content__title {
+    font-family: 'Merienda', sans-serif;
+    font-size: 24px;
+    color: #000; 
+    margin-bottom: 20px; 
+  }
+  
+  .content__logo-img {
+    width: 200px;
+    height: 29px;
+    margin: 0 auto 41px;
+  }
+  
+  .content__subtitle {
+    font-family: 'Merienda', sans-serif; 
+    font-size: 14px; 
+    line-height: 20px; 
+    color: #000; 
+    max-width: 589px;
+    margin: 0 auto; 
+  }
+
+  .content__subtitle:not(:last-of-type) {
+    margin-bottom: 20px;
+  }
+  
